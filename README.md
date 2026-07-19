@@ -19,8 +19,6 @@ The objective of this project is to analyze coffee shop sales data and uncover a
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (MySQL)** – Data extraction and business analysis
-- **Power BI** – Interactive dashboard and data visualization
 - **Power Query** – Data cleaning and transformation
 - **DAX** – KPI calculations and custom measures
 - **Excel/CSV** – Dataset source
@@ -70,35 +68,12 @@ The dashboard tracks the following key performance indicators:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshots here.
-
-Example:
-
-```
-Dashboard.png
-Dashboard_Page2.png
-```
-
-After uploading the images, display them like this:
-
-```markdown
-![Dashboard](Dashboard.png)
-
-![Dashboard Page 2](Dashboard_Page2.png)
-```
-
----
-
 ## 📁 Repository Structure
 
 ```
 Coffee-Shop-Sales-Analysis/
 │
-├── Coffee Shop Sales Dashboard.pbix
 ├── Coffee Shop Sales.xlsx
-├── SQL Queries.sql
 ├── Dashboard.png
 ├── README.md
 ```
