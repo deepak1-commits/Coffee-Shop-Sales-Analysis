@@ -72,7 +72,6 @@ The dashboard tracks the following key performance indicators:
 
 ```
 Coffee-Shop-Sales-Analysis/
-│
 ├── Coffee Shop Sales.xlsx
 ├── Dashboard.png
 ├── README.md
@@ -94,7 +93,6 @@ This dashboard enables stakeholders to:
 
 ## 📚 Skills Demonstrated
 
-- SQL Query Writing
 - Data Cleaning
 - Data Transformation
 - Data Modeling
