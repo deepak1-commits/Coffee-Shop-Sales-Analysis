@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Analysis
 
-An end-to-end Data Analytics project focused on analyzing coffee shop sales data using **EXCEL**. The project transforms raw transactional data into interactive dashboards that help identify sales trends, customer behavior, product performance, and store-level insights for data-driven business decisions.
+An end-to-end Data Analytics project focused on analyzing coffee shop sales data using **Excel**. The project transforms raw transactional data into interactive dashboards that help identify sales trends, customer behavior, product performance, and store-level insights for data-driven business decisions.
 
 ---
 
